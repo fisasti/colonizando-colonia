@@ -1,7 +1,11 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://federicoisasti.com/"
 languageCode = "es"
 title = "Colonizando Colonia"
 theme = "ananke"
+
+relativeURLs = true
+canonifyURLs = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

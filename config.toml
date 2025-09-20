@@ -1,4 +1,4 @@
 theme = "ananke"
-baseURL = "http://localhost:1313/"
+baseURL = "https://federicoisasti.com/colonizando-colonia/"
 languageCode = "es"
 title = "Mi Blog"

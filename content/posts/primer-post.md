@@ -17,16 +17,16 @@ Buenas! Les iba a escribir un mensaje por Whatsapp compartiéndoles fotos y vide
 
 Ya les conté pero ahí se complicó todo y empecé a buscar opciones con Ximena, una empleada de Aerolíneas que me salvó. Terminé emitiendo el boleto a Madrid, antes de subir encontré un vuelo de Iberia Madrid-Frankfurt por convenio con Aerolíneas y compré.
 
-<video width="640" controls>
+<video controls style="max-width:100%; height:auto;">>
   <source src="/videos/1/5.mp4" type="video/mp4">
 </video>
-*Sonidos*
+<i>Sonidos</i>
 
 <br /><br />
-<video width="640" controls>
+<video controls style="max-width:100%; height:auto;">>
   <source src="/videos/1/6.mp4" type="video/mp4">
 </video>
-*Despegue Madrid - Frankfurt en un <a href="https://www.google.com/search?q=bombardier+crj+1000" target="_blank">Bombadier CRJ 1000</a> (primera vez que vuelo en uno)*
+<i>Despegue Madrid - Frankfurt en un <a href="https://www.google.com/search?q=bombardier+crj+1000" target="_blank">Bombadier CRJ 1000</a> (primera vez que vuelo en uno)</i>
 
 ![Madrid-Frankfurt1](/images/1/7.jpg)
 ![Madrid-Frankfurt2](/images/1/8.jpg)
@@ -43,7 +43,7 @@ Bueno, la casa, que de noche se ve como una casa embrujada, está en el terreno 
 ![Captura-Maps](/images/1/11.jpg)
 *Vista desde mi cuarto*
 
-<video width="640" controls>
+<video controls style="max-width:100%; height:auto;">>
   <source src="/videos/1/12.mp4" type="video/mp4">
 </video>
 <i>Recorrido por el depto</i>

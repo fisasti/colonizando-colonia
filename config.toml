@@ -1,0 +1,4 @@
+theme = "ananke"
+baseURL = "http://localhost:1313/"
+languageCode = "es"
+title = "Mi Blog"

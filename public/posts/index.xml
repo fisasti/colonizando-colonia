@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Colonizando Colonia</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Colonizando Colonia</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 20 Sep 2025 16:31:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yendo y llegando</title>
+      <link>http://localhost:1313/posts/primer-post/</link>
+      <pubDate>Sat, 20 Sep 2025 16:31:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <description>&lt;p&gt;Buenas! Les iba a escribir un mensaje por Whatsapp compartiéndoles fotos y videos pero se me ocurrió que me va a explotar el celular de archivos duplicados, además de que iba a ser tremenda fiaca reenviar a distintos grupos/personas. Por eso se me ocurrió unificar acá y de paso puede escribir y compartir un poco más.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1/1.jpg&#34; alt=&#34;Vuelo de Roma&#34;&gt;&#xA;&lt;em&gt;Cuando era feliz pensando que subía al vuelo de Roma&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/1/2.png&#34; alt=&#34;Llamada con Andre y el gordo&#34;&gt;&#xA;&lt;em&gt;Llamada con Andre y Eugenio mientras mamá y papá (o &amp;ldquo;Madre&amp;rdquo; y &amp;ldquo;Padre&amp;rdquo;, como dice la gente ahora) morfaban un Cuarto de Libra con queso&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
